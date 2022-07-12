@@ -22,6 +22,8 @@ Obtener el cuadrado de todos los elementos en la lista.
 
 Lista: [1,2,3,4,5,6,7,8,9,10]
 
+https://colab.research.google.com/github/Alastorstark/Python/blob/main/bibliotecas2.ipynb#scrollTo=XYmvT7wz8Svu&line=4&uniqifier=1
+
 ## Ejercicio 3 (2 puntos)
 Obtener la cantidad de elementos mayores a 5 en la tupla.
 
